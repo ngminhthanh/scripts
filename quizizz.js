@@ -1,390 +1,154 @@
-'use strict';
-/** @type {!Array} */
-var a0_0x46d9 = ["map", "log", "done", "previousCo", "Generator ", "M1-_ZY", "584734QBvHKy", "retreive q", "Enter othe", "$$state", "omaticcly ", "pt created", "throw", "children", "optionData", "pop", "structure", "5169PznWPv", "Couldn't r", "eCAD63NH-x", "n/json", "value", "ioner-comp", "actualInde", "he must ta", "12684cpmDJj", "no-cache", "_data", "applicatio", "etreive qu", "598135XaHJDn", "> div > di", "109oybLnd", "length", "1UDxwwi", " div.scree", "prototype", "apply", "1VuocNV", "v.options-", 
-"ke a part ", "Wof4elPFwc", "13063dQNSTt", "join", "oot object", "131XFQUpt", "stion", "strict-ori", "filter", "ext", "body > div", "/github.co", "ops", "5242ymIQpO", "playerId", "random", "opacity", "v > div > ", "t-componen", "tor", "options", "estionID o", "text", "roomHash", " > div.roo", "cors", "__vue__", "container ", "1715117BCiHcW", "push", "call", "empty", "return", "stringify", "include", "Response:", "forEach", "data", "ross-origi", "trys", "same-site", "ame > div.", "-container", "q=0.7,pl;q", 
-"color: red", "en-GB,en-U", "1zDUtZG", "retreive r", "MSQ", "detect aut", "ski#5119! ", "Unable to ", "%c \n  Scri", "ame here, ", " executing", "ot defined", "next", "sent", "yer", "_vm", "some", "slice", "t > div > ", "\n  https:/", "live", "main_main", "etreive pr", "innerText", "PlayerID n", "original", "> div", "20%", "parse", "question", "https://qu", "> div.page", "game", "POST", "currentPla", ".com/play-", "label", "function", "querySelec", "json", "r player n", "anwser typ", "n.screen-g", 
-"DaB6c-M4tn", "number"];
-/**
- * @param {number} totalExpectedResults
- * @param {?} entrySelector
- * @return {?}
- */
-var a0_0x3a6b = function(totalExpectedResults, entrySelector) {
-  /** @type {number} */
-  totalExpectedResults = totalExpectedResults - 353;
-  var _0x46d985 = a0_0x46d9[totalExpectedResults];
-  return _0x46d985;
+var a0_0x2b5a = ["203017IwhbHe", " div.scree", "container ", "sent", "20419qpbUKM", "filter", "game", "ript creat", "log", "215087AFAosG", "v > div > ", "130798QMhRKq", "ioner-comp", "pop", "%c \n    Sc", "anski#5119", "transition", "throw", "length", "retreive q", "$store", "roomHash", "$$state", "error", "push", "      ", "ting type ", "then", "_data", "playerId", "Could not ", "t > div > ", "join", "40135CaSIUe", "prototype", "t-componen", "20%", "! \n    htt", "n: ", "questions", "function", "ed by gbar", "_id", "> div > di", "1aRQNjV", "label", "Fail detec", "apply", "structure", "iterator", "Unable to ", "value", "text", "is already", "244114IvDobX", "isArray", "forEach", "return", "body > div", "ame > div.", "call", "div > div ", "18CloWKt", "retreive r", "roomCode", "tor", "of questio", "children", "quizId", "er.transit", "querySelec", "b.com/gbar", "https://qu", "-container", "242025opvcso", "_vm", "ist elemen", "> div", "answer", "trys", "__vue__", "1PoSfiV", "data", "game/", "n.screen-g", "style", "currentId", "opacity", "ops", "uestions l", "some", "map", "optionData", "questionID", "oot object", "next", "done", " > div.roo", "slice"];
+var a0_0x1eca = function (tarkesha, stellina) {
+  tarkesha = tarkesha - 359;
+  var heysel = a0_0x2b5a[tarkesha];
+  return heysel;
 };
-(function(data, oldPassword) {
-  /** @type {function(number, ?): ?} */
-  var toMonths = a0_0x3a6b;
-  for (; !![];) {
+(function (pransh, yusif) {
+  var qwendolyn = a0_0x1eca;
+  while (!![]) {
     try {
-      /** @type {number} */
-      var userPsd = -parseInt(toMonths(403)) * parseInt(toMonths(407)) + parseInt(toMonths(390)) * parseInt(toMonths(405)) + -parseInt(toMonths(415)) + -parseInt(toMonths(426)) * parseInt(toMonths(418)) + -parseInt(toMonths(398)) + parseInt(toMonths(379)) * -parseInt(toMonths(459)) + -parseInt(toMonths(411)) * -parseInt(toMonths(441));
-      if (userPsd === oldPassword) {
-        break;
-      } else {
-        data["push"](data["shift"]());
-      }
-    } catch (_0x123298) {
-      data["push"](data["shift"]());
+      var lanty = -parseInt(qwendolyn(390)) + -parseInt(qwendolyn(410)) + -parseInt(qwendolyn(369)) + -parseInt(qwendolyn(446)) * parseInt(qwendolyn(380)) + parseInt(qwendolyn(435)) + parseInt(qwendolyn(444)) * parseInt(qwendolyn(417)) + parseInt(qwendolyn(398)) * parseInt(qwendolyn(439));
+      if (lanty === yusif) break; else pransh.push(pransh.shift());
+    } catch (joviana) {
+      pransh.push(pransh.shift());
     }
   }
-})(a0_0x46d9, 383220), (() => {
-  /**
-   * @param {!Object} evt
-   * @param {number} fn
-   * @param {!Function} P
-   * @param {!Function} current
-   * @return {?}
-   */
-  var start = function(evt, fn, P, current) {
-    return new (P || (P = Promise))(function(a, reject) {
-      /**
-       * @param {?} value
-       * @return {undefined}
-       */
-      function success(value) {
-        /** @type {function(number, ?): ?} */
-        var parseInt = a0_0x3a6b;
-        try {
-          step(current[parseInt(469)](value));
-        } catch (createConnectionErr) {
-          reject(createConnectionErr);
-        }
-      }
-      /**
-       * @param {?} value
-       * @return {undefined}
-       */
-      function error(value) {
-        /** @type {function(number, ?): ?} */
-        var parseInt = a0_0x3a6b;
-        try {
-          step(current[parseInt(385)](value));
-        } catch (createConnectionErr) {
-          reject(createConnectionErr);
-        }
-      }
-      /**
-       * @param {!Object} data
-       * @return {undefined}
-       */
-      function step(data) {
-        /** @type {function(number, ?): ?} */
-        var random = a0_0x3a6b;
-        var x;
-        if (data["done"]) {
-          a(data[random(394)]);
-        } else {
-          (x = data[random(394)], x instanceof P ? x : new P(function(resolve) {
-            resolve(x);
-          }))["then"](success, error);
-        }
-      }
-      /** @type {function(number, ?): ?} */
-      var parseInt = a0_0x3a6b;
-      step((current = current[parseInt(410)](evt, fn || []))["next"]());
-    });
+}(a0_0x2b5a, 128574), (() => {
+  "use strict";
+  var ulyssess, usha, amelia = function (korsica) {
+    var mingo = a0_0x1eca;
+    korsica[mingo(421)][mingo(423)] = mingo(372);
+  }, grettell = function (hser) {
+    var danson = a0_0x1eca, zeny = function () {
+      var johnryan = a0_0x1eca, farrar = document["querySelec" + johnryan(401)](johnryan(394) + johnryan(433) + johnryan(371) + johnryan(367) + "div > div " + "> div.page" + johnryan(409) + ".in-quiz >" + johnryan(436) + johnryan(420) + johnryan(395) + johnryan(451) + johnryan(405) + johnryan(447) + "onent > di" + johnryan(445) + johnryan(397) + johnryan(379) + "v.options-" + johnryan(437) + johnryan(413));
+      if (!farrar) throw new Error(johnryan(386) + johnryan(454) + johnryan(425) + johnryan(412) + "t");
+      return farrar;
+    }(), laneva = Array[danson(370)][danson(434)][danson(396)](zeny[danson(403)]);
+    if (Array.isArray(hser[danson(384)][danson(414)]) && hser[danson(384)][danson(414)][danson(453)] < 1 && hser[danson(384)].options) {
+      var xea = hser.structure.options[danson(427)](function (joskar) {
+        var marieka = danson;
+        return joskar[marieka(388)];
+      })[danson(368)](" or ");
+      alert(xea);
+    } else laneva[danson(440)](function (zai) {
+      var fortunato = danson;
+      return Array[fortunato(391)](hser[fortunato(384)][fortunato(414)]) && hser[fortunato(384)][fortunato(414)][fortunato(453)] > 0 ? !hser[fortunato(384)][fortunato(414)][fortunato(426)](function (cathaline) {
+        var tomoyuki = fortunato;
+        return zai[tomoyuki(416)].optionData.actualIndex === cathaline;
+      }) : "number" == typeof hser[fortunato(384)][fortunato(414)] ? zai[fortunato(416)][fortunato(428)].actualIndex !== hser[fortunato(384)][fortunato(414)] : void console[fortunato(359)](fortunato(382) + fortunato(362) + fortunato(402) + fortunato(374), hser);
+    })[danson(392)](amelia);
+  }, peria = function () {
+    var codi = a0_0x1eca, leora = document[codi(406) + codi(401)](codi(394));
+    if (!leora) throw new Error("Could not retreive r" + codi(430));
+    return leora.__vue__[codi(455)]._vm[codi(364)][codi(457)][codi(441)][codi(418)][codi(456)];
   };
-  /**
-   * @param {?} element
-   * @param {!Function} renderers
-   * @return {?}
-   */
-  var polyfill = function(element, renderers) {
-    /**
-     * @param {number} data
-     * @return {?}
-     */
-    function verb(data) {
-      return function(canCreateDiscussions) {
-        return function(obj) {
-          /** @type {function(number, ?): ?} */
-          var getTemplatesKey = a0_0x3a6b;
-          if (tag) {
-            throw new TypeError(getTemplatesKey(377) + "is already" + getTemplatesKey(467) + ".");
-          }
-          for (; item;) {
-            try {
-              if (tag = 1, data && (id = 2 & obj[0] ? data[getTemplatesKey(445)] : obj[0] ? data[getTemplatesKey(385)] || ((id = data[getTemplatesKey(445)]) && id[getTemplatesKey(443)](data), 0) : data[getTemplatesKey(469)]) && !(id = id[getTemplatesKey(443)](data, obj[1]))[getTemplatesKey(375)]) {
-                return id;
-              }
-              switch(data = 0, id && (obj = [2 & obj[0], id[getTemplatesKey(394)]]), obj[0]) {
+  usha = function () {
+    var mikayia, shauntay;
+    return function (jeremyiah, bertena) {
+      var traves = a0_0x1eca, astreia, alexanderjames, nissim, jewlia, kinadee = {label: 0, sent: function () {
+        if (1 & nissim[0]) throw nissim[1];
+        return nissim[1];
+      }, trys: [], ops: []};
+      return jewlia = {next: rasool(0), throw: rasool(1), return: rasool(2)}, traves(376) == typeof Symbol && (jewlia[Symbol[traves(385)]] = function () {
+        return this;
+      }), jewlia;
+      function rasool(onnah) {
+        return function (delmus) {
+          return function (rubi) {
+            var aleene = a0_0x1eca;
+            if (astreia) throw new TypeError("Generator " + aleene(389) + " executing" + ".");
+            for (; kinadee;) try {
+              if (astreia = 1, alexanderjames && (nissim = 2 & rubi[0] ? alexanderjames[aleene(393)] : rubi[0] ? alexanderjames[aleene(452)] || ((nissim = alexanderjames[aleene(393)]) && nissim[aleene(396)](alexanderjames), 0) : alexanderjames[aleene(431)]) && !(nissim = nissim[aleene(396)](alexanderjames, rubi[1]))[aleene(432)]) return nissim;
+              switch (alexanderjames = 0, nissim && (rubi = [2 & rubi[0], nissim.value]), rubi[0]) {
                 case 0:
                 case 1:
-                  id = obj;
+                  nissim = rubi;
                   break;
                 case 4:
-                  return item[getTemplatesKey(364)]++, {
-                    "value" : obj[1],
-                    "done" : false
-                  };
+                  return kinadee[aleene(381)]++, {value: rubi[1], done: false};
                 case 5:
-                  item[getTemplatesKey(364)]++;
-                  data = obj[1];
-                  /** @type {!Array} */
-                  obj = [0];
+                  kinadee[aleene(381)]++, alexanderjames = rubi[1], rubi = [0];
                   continue;
                 case 7:
-                  obj = item["ops"][getTemplatesKey(388)]();
-                  item[getTemplatesKey(452)]["pop"]();
+                  rubi = kinadee.ops[aleene(448)](), kinadee[aleene(415)][aleene(448)]();
                   continue;
                 default:
-                  if (!((id = (id = item[getTemplatesKey(452)])[getTemplatesKey(406)] > 0 && id[id["length"] - 1]) || 6 !== obj[0] && 2 !== obj[0])) {
-                    /** @type {number} */
-                    item = 0;
+                  if (!((nissim = (nissim = kinadee.trys)[aleene(453)] > 0 && nissim[nissim[aleene(453)] - 1]) || 6 !== rubi[0] && 2 !== rubi[0])) {
+                    kinadee = 0;
                     continue;
                   }
-                  if (3 === obj[0] && (!id || obj[1] > id[0] && obj[1] < id[3])) {
-                    item["label"] = obj[1];
+                  if (3 === rubi[0] && (!nissim || rubi[1] > nissim[0] && rubi[1] < nissim[3])) {
+                    kinadee[aleene(381)] = rubi[1];
                     break;
                   }
-                  if (6 === obj[0] && item[getTemplatesKey(364)] < id[1]) {
-                    item[getTemplatesKey(364)] = id[1];
-                    id = obj;
+                  if (6 === rubi[0] && kinadee[aleene(381)] < nissim[1]) {
+                    kinadee.label = nissim[1], nissim = rubi;
                     break;
                   }
-                  if (id && item["label"] < id[2]) {
-                    item[getTemplatesKey(364)] = id[2];
-                    item[getTemplatesKey(425)][getTemplatesKey(442)](obj);
+                  if (nissim && kinadee.label < nissim[2]) {
+                    kinadee[aleene(381)] = nissim[2], kinadee[aleene(424)][aleene(360)](rubi);
                     break;
                   }
-                  if (id[2]) {
-                    item[getTemplatesKey(425)][getTemplatesKey(388)]();
-                  }
-                  item["trys"][getTemplatesKey(388)]();
+                  nissim[2] && kinadee[aleene(424)][aleene(448)](), kinadee[aleene(415)].pop();
                   continue;
               }
-              obj = renderers[getTemplatesKey(443)](element, item);
-            } catch (quick) {
-              /** @type {!Array} */
-              obj = [6, quick];
-              /** @type {number} */
-              data = 0;
+              rubi = bertena.call(jeremyiah, kinadee);
+            } catch (bailiegh) {
+              rubi = [6, bailiegh], alexanderjames = 0;
             } finally {
-              /** @type {number} */
-              tag = id = 0;
+              astreia = nissim = 0;
             }
-          }
-          if (5 & obj[0]) {
-            throw obj[1];
-          }
-          return {
-            "value" : obj[0] ? obj[1] : void 0,
-            "done" : true
-          };
-        }([data, canCreateDiscussions]);
-      };
-    }
-    /** @type {function(number, ?): ?} */
-    var epsilon = a0_0x3a6b;
-    var tag;
-    var data;
-    var id;
-    var g;
-    var item = {
-      "label" : 0,
-      "sent" : function() {
-        if (1 & id[0]) {
-          throw id[1];
-        }
-        return id[1];
-      },
-      "trys" : [],
-      "ops" : []
-    };
-    return g = {
-      "next" : verb(0),
-      "throw" : verb(1),
-      "return" : verb(2)
-    }, epsilon(365) == typeof Symbol && (g[Symbol["iterator"]] = function() {
-      return this;
-    }), g;
-  };
-  /**
-   * @return {?}
-   */
-  var merge = function() {
-    /** @type {function(number, ?): ?} */
-    var wrapChords = a0_0x3a6b;
-    var e1 = document["querySelec" + wrapChords(432)](wrapChords(423) + wrapChords(437) + wrapChords(431) + wrapChords(475) + "div > div " + wrapChords(359) + wrapChords(455) + ".in-quiz >" + wrapChords(408) + wrapChords(370) + wrapChords(454) + "transition" + "er.transit" + wrapChords(395) + "onent > di" + wrapChords(430) + "div > div " + wrapChords(404) + wrapChords(412) + wrapChords(440) + wrapChords(354));
-    if (!e1) {
-      throw new Error(wrapChords(464) + wrapChords(380) + "uestions l" + "ist elemen" + "t");
-    }
-    return e1;
-  };
-  /**
-   * @param {!Object} el
-   * @return {undefined}
-   */
-  var status = function(el) {
-    /** @type {function(number, ?): ?} */
-    var property = a0_0x3a6b;
-    el["style"][property(429)] = property(355);
-  };
-  start(void 0, void 0, void 0, function() {
-    var playerId;
-    var urlData;
-    return polyfill(this, function(canCreateDiscussions) {
-      /** @type {function(number, ?): ?} */
-      var ch = a0_0x3a6b;
-      if (console["log"](ch(465) + ch(384) + " by gbaran" + ch(463) + ch(476) + ch(424) + "m/gbaransk" + "i/quizizz-" + "cheat\n  ", ch(457) + ";"), !(playerId = prompt(ch(381) + ch(368) + ch(466) + ch(397) + ch(413) + "in quiz!"))) {
-        throw new Error(ch(481) + ch(468));
-      }
-      return urlData = function() {
-        /** @type {function(number, ?): ?} */
-        var num = ch;
-        var tiledImageBRs = document[num(366) + "tor"](num(423));
-        if (!tiledImageBRs) {
-          throw new Error("Could not " + num(460) + num(417));
-        }
-        var tiledImageBR = tiledImageBRs[num(439)];
-        var zoneId = tiledImageBR["$store"][num(472)]["currentQue" + num(419)]["id"];
-        var ddform = tiledImageBR["$store"]["_vm"][num(400)][num(382)][num(360)][num(450)][num(436)];
-        if (!zoneId || !ddform) {
-          throw new Error("Couldn't r" + num(402) + num(434) + "r roomHash");
-        }
-        var data = localStorage["getItem"](num(376) + "ntext");
-        if (!data) {
-          throw new Error(num(391) + num(479) + "eviousCont" + num(422));
-        }
-        return {
-          "id" : zoneId,
-          "roomHash" : ddform,
-          "playerId" : JSON[num(356)](data)[num(362) + num(471)][num(427)]
+            if (5 & rubi[0]) throw rubi[1];
+            return {value: rubi[0] ? rubi[1] : void 0, done: true};
+          }([onnah, delmus]);
         };
-      }(), function(data) {
-        start(void 0, void 0, void 0, function() {
-          var t;
-          var tween;
-          return polyfill(this, function(images) {
-            /** @type {function(number, ?): ?} */
-            var wrap = a0_0x3a6b;
-            switch(images[wrap(364)]) {
-              case 0:
-                return [4, fetch("https://ga" + "me.quizizz" + wrap(363) + "api/v4/pro" + "ceedGame", {
-                  "headers" : {
-                    "accept" : wrap(401) + wrap(393),
-                    "accept-language" : wrap(458) + "S;q=0.9,en" + ";q=0.8,no;" + wrap(456) + "=0.6",
-                    "cache-control" : wrap(399),
-                    "content-type" : wrap(401) + wrap(393),
-                    "experiment-name" : wrap(478),
-                    "pragma" : "no-cache",
-                    "sec-fetch-dest" : wrap(444),
-                    "sec-fetch-mode" : wrap(438),
-                    "sec-fetch-site" : wrap(453),
-                    "x-csrf-token" : wrap(392) + wrap(371) + wrap(414) + wrap(378)
-                  },
-                  "referrer" : wrap(358) + "izizz.com/",
-                  "referrerPolicy" : wrap(420) + "gin-when-c" + wrap(451) + "n",
-                  "body" : JSON[wrap(446)](data),
-                  "method" : wrap(361),
-                  "mode" : wrap(438),
-                  "credentials" : wrap(447)
-                })];
-              case 1:
-                return [4, images[wrap(470)]()[wrap(367)]()];
-              case 2:
-                return t = images[wrap(470)](), console[wrap(374)](wrap(448), t), (tween = t["question"][wrap(389)]["answer"]) instanceof Array && tween[wrap(406)] > 0 ? function(params) {
-                  /** @type {function(number, ?): ?} */
-                  var now = wrap;
-                  var parent = merge();
-                  var rpm_traffic = Array[now(409)][now(474)][now(443)](parent["children"]);
-                  var updatedEdgesById = rpm_traffic[now(421)](function(currentItems) {
-                    return params["some"](function(isSlidingUp) {
-                      /** @type {function(number, ?): ?} */
-                      var parseInt = a0_0x3a6b;
-                      return isSlidingUp === currentItems[parseInt(439)]["optionData"][parseInt(396) + "x"];
-                    });
-                  })[now(373)](function(myPreferences) {
-                    /** @type {function(number, ?): ?} */
-                    var getPreferenceKey = now;
-                    return myPreferences[getPreferenceKey(480)];
-                  });
-                  console["log"]({
-                    "matching" : updatedEdgesById
-                  });
-                  var service_obj = rpm_traffic[now(421)](function(s) {
-                    /** @type {function(number, ?): ?} */
-                    var edgeId = now;
-                    return !updatedEdgesById[edgeId(473)](function(index) {
-                      /** @type {function(number, ?): ?} */
-                      var prefixStyle = edgeId;
-                      return s[prefixStyle(480)] === index;
-                    });
-                  });
-                  console[now(374)]({
-                    "notMatchingElements" : service_obj
-                  });
-                  service_obj[now(449)](status);
-                }(tween) : wrap(372) == typeof tween ? (previousTarget = tween, currentTarget = merge(), nodes = Array[wrap(409)][wrap(474)][wrap(443)](currentTarget[wrap(386)]), filePattern = nodes[wrap(421)](function(colData) {
-                  /** @type {function(number, ?): ?} */
-                  var parseInt = wrap;
-                  return colData[parseInt(439)][parseInt(387)][parseInt(396) + "x"] === previousTarget;
-                })[wrap(373)](function(srcElmnt) {
-                  return srcElmnt["innerText"];
-                }), console[wrap(374)]({
-                  "matching" : filePattern
-                }), nodes["filter"](function(element) {
-                  return filePattern["some"](function(attrValue) {
-                    return element["innerText"] != attrValue;
-                  });
-                })["forEach"](status)) : t[wrap(357)][wrap(389)][wrap(433)] ? (previousState = t[wrap(357)][wrap(389)][wrap(433)]["map"](function(myPreferences) {
-                  /** @type {function(number, ?): ?} */
-                  var getPreferenceKey = wrap;
-                  return myPreferences[getPreferenceKey(435)];
-                }), alert(previousState[wrap(416)](" or ")), console[wrap(374)](previousState)) : console["log"](wrap(464) + wrap(462) + wrap(383) + wrap(369) + "e", t["question"]), [2];
+      }
+    }(this, function (bearon) {
+      var jenaiya = a0_0x1eca;
+      switch (bearon[jenaiya(381)]) {
+        case 0:
+          return console[jenaiya(443)](jenaiya(449) + jenaiya(442) + jenaiya(377) + jenaiya(450) + jenaiya(373) + "ps://githu" + jenaiya(407) + "anski/quiz" + "izz-cheat\n" + jenaiya(361), "color: red;"), [4, fetch(jenaiya(408) + "izizz.com/" + "_api/main/" + jenaiya(419) + peria())];
+        case 1:
+          return [4, bearon[jenaiya(438)]().json()];
+        case 2:
+          return mikayia = bearon[jenaiya(438)](), shauntay = void 0, setInterval(function () {
+            var clementina = jenaiya, jayland = function () {
+              var neeyah = a0_0x1eca, honora = document[neeyah(406) + neeyah(401)](neeyah(394));
+              if (!honora) throw new Error(neeyah(366) + neeyah(399) + neeyah(430));
+              var blakney = honora[neeyah(416)];
+              return {roomHash: blakney[neeyah(455)][neeyah(411)]._data[neeyah(457)][neeyah(441)].data[neeyah(456)], playerId: blakney.$store[neeyah(411)]._data[neeyah(457)][neeyah(441)].player[neeyah(365)], quizID: blakney[neeyah(455)]._vm[neeyah(364)][neeyah(457)][neeyah(441)][neeyah(418)][neeyah(404)], roomCode: blakney[neeyah(455)][neeyah(411)][neeyah(364)][neeyah(457)].game[neeyah(418)][neeyah(400)], questionID: blakney[neeyah(455)][neeyah(411)]._data[neeyah(457)].game.questions[neeyah(422)]};
+            }();
+            if (jayland[clementina(429)] !== shauntay) for (var thema = 0, loudon = mikayia[clementina(418)][clementina(375)]; thema < loudon.length; thema++) {
+              var zoann = loudon[thema];
+              jayland[clementina(429)] === zoann[clementina(378)] && (console.log({q: zoann}), grettell(zoann), shauntay = jayland[clementina(429)]);
             }
-            var previousState;
-            var previousTarget;
-            var currentTarget;
-            var nodes;
-            var filePattern;
-          });
-        });
-      }({
-        "gameType" : ch(477),
-        "playerId" : playerId,
-        "powerupEffects" : {
-          "destroy" : []
-        },
-        "questionId" : urlData["id"],
-        "response" : {
-          "attempt" : 0,
-          "isEvaluated" : false,
-          "questionId" : urlData["id"],
-          "questionType" : ch(461),
-          "provisional" : {
-            "scoreBreakups" : {
-              "correct" : {
-                "base" : 600,
-                "powerups" : [],
-                "streak" : 20,
-                "timer" : 0,
-                "total" : 500
-              },
-              "incorrect" : {
-                "base" : 0,
-                "powerups" : [],
-                "streak" : 0,
-                "timer" : 0,
-                "total" : 0
-              }
-            },
-            "scores" : {
-              "correct" : 600,
-              "incorrect" : 0
-            },
-            "teamAdjustments" : []
-          },
-          "response" : [],
-          "responseType" : ch(353),
-          "timeTaken" : Math["floor"](1E4 * Math[ch(428)]())
-        },
-        "roomHash" : urlData["roomHash"]
-      }), [2];
+          }, 500), [2];
+      }
     });
+  }, new ((ulyssess = void 0) || (ulyssess = Promise))(function (jaleya, chanea) {
+    var mollie = a0_0x1eca;
+    function nealy(morticia) {
+      try {
+        dihanna(usha.next(morticia));
+      } catch (apolo) {
+        chanea(apolo);
+      }
+    }
+    function ddnna(method) {
+      var latischa = a0_0x1eca;
+      try {
+        dihanna(usha[latischa(452)](method));
+      } catch (macai) {
+        chanea(macai);
+      }
+    }
+    function dihanna(jadee) {
+      var eryana = a0_0x1eca, maclaren;
+      jadee[eryana(432)] ? jaleya(jadee[eryana(387)]) : (maclaren = jadee.value, maclaren instanceof ulyssess ? maclaren : new ulyssess(function (jamariyon) {
+        jamariyon(maclaren);
+      }))[eryana(363)](nealy, ddnna);
+    }
+    dihanna((usha = usha[mollie(383)](void 0, []))[mollie(431)]());
   });
-})();
+})());
