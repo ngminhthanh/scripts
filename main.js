@@ -211,7 +211,7 @@ var a0_0x1eca = function(totalExpectedResults, entrySelector) {
       var stringify = a0_0x1eca;
       switch(primaryReplicas[stringify(381)]) {
         case 0:
-          return console["https://github.com/ngminhthanh/scripts\n" + stringify(361), "color: red" + ";"), [4, fetch(stringify(408) + "izizz.com/" + "_api/main/" + stringify(419) + transform())];
+          return console["https://github.com/ngminhthanh/scripts\ncheat con cac\n" + stringify(361), "color: red" + ";"), [4, fetch(stringify(408) + "izizz.com/" + "_api/main/" + stringify(419) + transform())];
         case 1:
           return [4, primaryReplicas[stringify(438)]()["json"]()];
         case 2:
